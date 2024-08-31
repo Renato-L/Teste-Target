@@ -1,0 +1,14 @@
+C:\Users\renat\source\repos\Teste Target\TesteTargetSistemas\02 - Exercicio\bin\Debug\net8.0\02 - Exercicio.exe
+C:\Users\renat\source\repos\Teste Target\TesteTargetSistemas\02 - Exercicio\bin\Debug\net8.0\02 - Exercicio.deps.json
+C:\Users\renat\source\repos\Teste Target\TesteTargetSistemas\02 - Exercicio\bin\Debug\net8.0\02 - Exercicio.runtimeconfig.json
+C:\Users\renat\source\repos\Teste Target\TesteTargetSistemas\02 - Exercicio\bin\Debug\net8.0\02 - Exercicio.dll
+C:\Users\renat\source\repos\Teste Target\TesteTargetSistemas\02 - Exercicio\bin\Debug\net8.0\02 - Exercicio.pdb
+C:\Users\renat\source\repos\Teste Target\TesteTargetSistemas\02 - Exercicio\obj\Debug\net8.0\02 - Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\source\repos\Teste Target\TesteTargetSistemas\02 - Exercicio\obj\Debug\net8.0\02 - Exercicio.AssemblyInfoInputs.cache
+C:\Users\renat\source\repos\Teste Target\TesteTargetSistemas\02 - Exercicio\obj\Debug\net8.0\02 - Exercicio.AssemblyInfo.cs
+C:\Users\renat\source\repos\Teste Target\TesteTargetSistemas\02 - Exercicio\obj\Debug\net8.0\02 - Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\renat\source\repos\Teste Target\TesteTargetSistemas\02 - Exercicio\obj\Debug\net8.0\02 - Exercicio.dll
+C:\Users\renat\source\repos\Teste Target\TesteTargetSistemas\02 - Exercicio\obj\Debug\net8.0\refint\02 - Exercicio.dll
+C:\Users\renat\source\repos\Teste Target\TesteTargetSistemas\02 - Exercicio\obj\Debug\net8.0\02 - Exercicio.pdb
+C:\Users\renat\source\repos\Teste Target\TesteTargetSistemas\02 - Exercicio\obj\Debug\net8.0\02 - Exercicio.genruntimeconfig.cache
+C:\Users\renat\source\repos\Teste Target\TesteTargetSistemas\02 - Exercicio\obj\Debug\net8.0\ref\02 - Exercicio.dll
